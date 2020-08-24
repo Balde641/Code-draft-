@@ -1,4 +1,4 @@
-# Code-draft-
+# Code-draft- from Google
 Asking the user for input until they give a valid response
 while True:
     try:
